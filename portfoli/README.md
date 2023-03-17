@@ -4,6 +4,7 @@ Este es mi **portfoli** de mis estudios de *Ciclo Superior de Desarrollo de Apli
 
 
 Mis estudios de DAM los hice en el Instituto Nicolau Copèrnic.
+
 <img src="https://copernic.cat/images/logos/logo-header.png" width="200">
 
 Los modulos que eh hecho son:
